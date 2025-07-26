@@ -2,6 +2,9 @@
 
 This project compares the performance of a **fully connected Neural Network (NN)** and a **Convolutional Neural Network (CNN)** on the **Fashion MNIST** dataset using **PyTorch**.
 
+![alt text](<Image/2025-07-26 14_15_31-Window.png>)
+![alt text](<Image/2025-07-26 14_22_14-Window.png>)
+![alt text](<Image/2025-07-26 14_22_56-Window.png>)
 ---
 
 ## 🎯 Objective
